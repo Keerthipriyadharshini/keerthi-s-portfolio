@@ -3,6 +3,8 @@
 A responsive and modern personal portfolio website developed using **HTML5** and **CSS3**. This portfolio showcases my skills, education, projects, and achievements in a clean and professional layout.
 
 ---
+live demo
+https://keerthipriyadharshini.github.io/keerthi-s-portfolio/
 
 ## 📖 About
 
